@@ -5,6 +5,7 @@ bin/
 .settings/
 .project
 .tests/
+build/
 
 # Package Files #
 *.jar
